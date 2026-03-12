@@ -14,9 +14,11 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-DAA520?style=flat-square&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-543978?style=flat-square&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-B83998?style=flat-square&logo=v&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Frameworks & Libraries
