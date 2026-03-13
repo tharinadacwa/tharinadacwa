@@ -49,6 +49,10 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharinadacwa&theme=radical)
 
+## 🐍 Snake Contribution Animation
+
+![snake gif](https://github.com/tharinadacwa/tharinadacwa/raw/output/github-contribution-grid-snake.svg)
+
 ## 💼 Featured Projects
 
 Here are some of my notable projects:
