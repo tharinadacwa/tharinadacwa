@@ -4,12 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your contact info]
-- ⚡ Fun fact: [Something interesting about you]
+I am a third-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa with hands-on experience in embedded systems, analog and digital circuit design, multi-layer PCB development, and software-defined radio systems. I have worked on projects involving IoT devices, RF communication, robotics, and power electronics, using tools such as Altium Designer, GNU Radio, and FPGA development environments. I am motivated to contribute to innovative hardware and embedded system development.
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 Here are some of my notable projects:
 
-- **[Oscivox-Analog-Acoustic-Guitar-Tuner](https://github.com/tharinadacwa/Oscivox-Analog-Acoustic-Guitar-Tuner-EN2091-Analog-Project)** - The Analog Acoustic Guitar Tuner is a fully analog signal-processing system that detects the frequency of a plucked guitar string and visually indicates whether the string is tuned correctly. Unlike digital tuners, this device performs all signal processing using analog circuits, including filtering, frequency detection, and voltage comparison.
+- **[Oscivox-Analog-Acoustic-Guitar-Tuner](https://github.com/tharinadacwa/Oscivox-Analog-Acoustic-Guitar-Tuner-EN2091-Analog-Project)** - The Analog Acoustic Guitar Tuner is a fully analog signal processing system that detects the frequency of a plucked guitar string and visually indicates whether the string is tuned correctly. Unlike digital tuners, this device performs all signal processing using analog circuits, including filtering, frequency detection, and voltage comparison.
 
 - **[ThermoBand](https://github.com/tharinadacwa/ThermoBand-EN1190)** - ThermoBand a wearable temperature-monitoring device designed to support real-time health monitoring and affordable healthcare solutions for vulnerable communities.
 
@@ -74,11 +69,6 @@ Here are some of my notable projects:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharinda-abeywardana-97304b1b8/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharindacw2804@gmail.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
